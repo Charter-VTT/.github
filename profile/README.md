@@ -102,7 +102,7 @@ Uhm well if you can code in typescript, css, html and/or rust you are welcome to
 
 Okay this one is gonna be confusing but we will look at allowing UI/UX peers to submit designs when we get to Phase 2.
 
-#### Non or the above
+#### Non of the above
 
 Don't be sad your input is valuable! Along with the design contributions we will look at ways for you to submit your ideas, we will have strict criteria of what goes into the main application, most features will probably be extensions! And we will make sure our submission system allows for any developer to pick it up!
 
