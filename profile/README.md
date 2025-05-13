@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="logo-dark.png#gh-dark-mode-only">
-  <img src="logo.png#gh-light-mode-only">
+  <img src="https://github.com/Charter-VTT/.github/blob/7f14a77afba7ab274d24de2a38e2cabd33cccc5a/logo-dark.png#gh-dark-mode-only">
+  <img src="https://github.com/Charter-VTT/.github/blob/7f14a77afba7ab274d24de2a38e2cabd33cccc5a/logo.png#gh-light-mode-only">
 </p>
 
 > [!NOTE]
